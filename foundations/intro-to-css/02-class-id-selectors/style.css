@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.oddnum{
+    font-family: "Arial", "DejaVu Sans", sans-serif;
+    background-color: rgba(237, 126, 235, 0.6);
+}
+
+.mediumfont{
+    font-size: 24px;
+}
+
+#second-element{
+    color: rgb(8, 8, 250);
+    font-size: 36px;
+}
+
+#forth-element{
+    background-color: rgb(156, 226, 156);
+    font-weight: bold;
+}
